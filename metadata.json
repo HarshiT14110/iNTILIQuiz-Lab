@@ -1,0 +1,8 @@
+{
+  "name": "IntelliQuiz Lab",
+  "description": "An AI-powered quiz generation and learning platform that creates stunning visual educational experiences.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
