@@ -47,16 +47,4 @@ Welcome to **IntelliQuiz Lab** — a smart, interactive, and visually engaging p
 
 ---
 
-## 📁 Project Structure
-iNTILIQuiz-Lab
-├─ 📂 components # Reusable UI components
-├─ 📂 services # API / logic services
-├─ 📜 App.tsx # Main application file
-├─ 📜 index.tsx # App entry point
-├─ 📜 index.html
-├─ 📜 package.json
-├─ 📜 tsconfig.json
-├─ 📜 vite.config.ts
-├─ 📜 types.ts # Custom TypeScript type definitions
-└─ 📜 .gitignore
 
